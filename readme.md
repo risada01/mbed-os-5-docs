@@ -10,3 +10,5 @@ Please open pull requests against either:
 - `6.2` - this is the latest live version.
 
 Older version branches probably don't require fixes; please open an issue if you think we're wrong.
+
+---
